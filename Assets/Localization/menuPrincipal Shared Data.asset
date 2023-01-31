@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: menuPrincipal Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: menuPrincipal
+  m_TableCollectionNameGuidString: aaa4ca69c6b5240489d2a0dc268e5568
+  m_Entries:
+  - m_Id: 183722680320
+    m_Key: NewGame_Button
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991302361088
+    m_Key: Cargar_Button
+    m_Metadata:
+      m_Items: []
+  - m_Id: 994758467584
+    m_Key: Opciones_Button
+    m_Metadata:
+      m_Items: []
+  - m_Id: 998080356352
+    m_Key: Salir_Button
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 434675937795637272
+  references:
+    version: 2
+    RefIds:
+    - rid: 434675937795637272
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1671706347928
